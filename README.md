@@ -30,3 +30,11 @@ A dating app where pictures become unblurred as you spend time spent texting.
 - [ ] Image filter
 - [ ] Link protection pop-up
 - [ ] Accept/reject has a window mechanism (open/close window) for Clarity branding (opens into the chat)
+
+### Tech Stack
+#### Frontend
+- Flutter
+
+### Backend
+- Django
+- Firebase
