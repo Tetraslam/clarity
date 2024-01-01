@@ -33,8 +33,7 @@ A dating app where pictures become unblurred as you spend time spent texting.
 
 ### Tech Stack
 #### Frontend
-- Flutter
+- Flet
 
 ### Backend
-- Django
 - Firebase
